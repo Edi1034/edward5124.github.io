@@ -1,0 +1,171 @@
+@font-face {
+    font-family: edward;
+    src: url(./font/Peach\ Days.otf);
+}
+
+body{
+    background-color: black;
+}
+
+.edwardimg{
+    width: 200px;
+    height: 200px;
+    border-radius: 50px;
+    position: relative;
+    top: 50px;
+    left: 550px;
+
+}
+
+#graycolor{
+    width: 700px;
+    width: 900px;
+    border-radius: 15px;
+    position: relative;
+    top: 200px;
+    z-index: -1;
+    left: 200px;
+    box-shadow: 1px 1px 20px white;
+}
+
+#edi{
+    font-family: edward;
+    color: white;
+    position: relative;
+    left: 397px;
+    width: 50px;
+    height: 70px;
+    bottom: 158px;
+    text-shadow: 1px 1px 20px white;
+}
+
+#minus{
+    color: white;
+}
+
+a{
+    color: white;
+}
+
+#edis{
+    position: relative;
+    bottom: 250px;
+    right: 315px;
+    text-shadow: 1px 1px 20px white;
+    font-family: edward;
+    font-size: 30px;
+}
+
+#text{
+    position: relative;
+    bottom: 130px;
+    left: 770px;
+    text-shadow: 1px 1px 20px white;
+    font-family: edward;
+    font-size: medium;
+}
+
+#hcjl{
+    position: relative;
+    bottom: 120px;
+    left: 769px;
+    text-shadow: 1px 1px 20px white;
+    font-family: edward;
+    font-size: medium;
+}
+
+#html{
+    position: relative;
+    bottom: 120px;
+    left: 770px;
+    color: red;
+    text-shadow: 1px 1px 20px red;
+    font-family: edward;
+    font-size: medium;
+}
+
+#text2{
+    position: relative;
+    bottom: 100px;
+    left: 769px;
+    text-shadow: 1px 1px 20px white;
+    font-family: edward;
+    font-size: medium;
+}
+
+#discord{
+    position: relative;
+    bottom: 65px;
+    left: 587px;
+    text-shadow: 1px 1px 20px white;
+    font-family: edward;
+    font-size: medium;
+}
+
+#discord1{
+    position: relative;
+    bottom: 65px;
+    left: 600px;
+    text-shadow: 1px 1px 20px rgb(0, 102, 255);
+    color: rgb(0, 102, 255);
+    font-family: edward;
+    font-size: medium;
+}
+
+#discord2{
+    position: relative;
+    bottom: 115px;
+    left: 865px;
+    text-shadow: 1px 1px 20px white;
+    font-family: edward;
+    font-size: medium;
+}
+
+#luws0{
+    position: relative;
+    bottom: 115px;
+    left: 865px;
+    text-shadow: 1px 1px 20px white;
+    font-family: edward;
+    font-size: medium;
+}
+
+#luws{
+    position: relative;
+    bottom: 115px;
+    left: 865px;
+    text-shadow: 1px 1px 20px rgb(0, 0, 0);
+    color: black;
+    font-family: edward;
+    font-size: medium;
+}
+
+#luws2{
+    position: relative;
+    bottom: 115px;
+    left: 865px;
+    text-shadow: 1px 1px 20px white;
+    font-family: edward;
+    font-size: medium;
+}
+
+button{
+    position: relative;
+    bottom: 100px;
+    left: 870px;
+    background-color: blue;
+    border-color: blue;
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+    z-index: -1;
+}
+
+#discor{
+    position: relative;
+    bottom: 100px;
+    left: 818px;
+    width: 45px;
+    height: 45px;
+    border-radius: 10px;
+}
